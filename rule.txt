@@ -1,0 +1,15 @@
+.js
+.jpg
+.jpeg
+.png
+.vue
+.css
+.scss
+.svg
+.mp4
+.mp3
+.ico
+.swf
+.less
+.gif
+.ts
